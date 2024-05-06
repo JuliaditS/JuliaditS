@@ -12,6 +12,7 @@
   <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadits&show_icons=true&locale=en&layout=compact" alt="juliadits" /></p>
   <p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuliaditS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
   <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadits&" alt="juliadits" /></p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=juliadits&" alt="juliadits" /></p>
 </a>
 </p>
 
