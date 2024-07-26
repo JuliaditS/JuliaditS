@@ -9,8 +9,8 @@
 ## 📊 Stats
 <p align="left">
 <a href="https://github.com/JuliaditS">
-  <p><img height="180em" src="https://juliadit-stat.vercel.app/api/top-langs?username=juliadits&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&locale=en&layout=compact&token=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" alt="juliadits" /></p>
-  <p><img height="180em" src="https://juliadit-stat.vercel.app/api?username=JuliaditS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&token=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"/></p>
+  <p><img height="180em" src="https://juliadit-stat.vercel.app/api/top-langs?username=juliadits&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="juliadits" /></p>
+  <p><img height="180em" src="https://juliadit-stat.vercel.app/api?username=JuliaditS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
   <p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadits&theme=algolia" alt="juliadits" /></p>
   <p><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuliaditS&theme=algolia" alt="juliadits" /></p>
 </a>
