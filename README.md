@@ -1,7 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
-
-<h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm Juliadit Syahputra, Software Engineer</h3>
+![Header](./github-header-image.png)
 
 ## 🏆 Thropy
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://juliadit-profile-trophy.vercel.app/?username=juliadits&theme=algolia" alt="juliadits" /></a> </p>
