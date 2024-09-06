@@ -4,7 +4,7 @@
 <h3 align="center">I'm Juliadit Syahputra, Software Engineer</h3>
 
 ## 🏆 Thropy
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliadits&theme=algolia" alt="juliadits" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://juliadit-profile-trophy.vercel.app/?username=juliadits&theme=algolia" alt="juliadits" /></a> </p>
 
 ## 📊 Stats
 <p align="left">
