@@ -25,6 +25,7 @@
 </p>
 
 ##  Views and Followers
+[![wakatime](https://wakatime.com/badge/user/05766369-7550-4501-8f52-b2ec4455197e.svg)](https://wakatime.com/@05766369-7550-4501-8f52-b2ec4455197e)
 <a href="https://github.com/JuliaditS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=JuliaditS">
 </a>
