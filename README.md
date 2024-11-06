@@ -4,12 +4,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://juliadit-profile-trophy.vercel.app/?username=juliadits&theme=algolia&column=3" alt="juliadits" /></a> </p>
 
 ## 📊 Stats
-<p align="left">
+<p align="center">
 <a href="https://github.com/JuliaditS">
-  <p><img src="https://juliadit-stats.vercel.app/api/top-langs?username=juliadits&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&locale=en&layout=pie" alt="juliadits" /></p>
-  <p><img src="https://juliadit-stats.vercel.app/api?username=JuliaditS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"/></p>
-  <p><img src="https://juliadit-streak-stats.vercel.app?user=JuliaditS&theme=algolia&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="juliadits" /></p>
-  <p><img src="https://juliadit-stats.vercel.app/api/wakatime?username=JuliaditS&theme=algolia" alt="juliadits" /></p>
+  <p align="center"><img src="https://juliadit-stats.vercel.app/api/top-langs?username=juliadits&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&locale=en&layout=pie" alt="juliadits" /></p>
+  <p align="center"><img src="https://juliadit-stats.vercel.app/api?username=JuliaditS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"/></p>
+  <p align="center"><img src="https://juliadit-streak-stats.vercel.app?user=JuliaditS&theme=algolia&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="juliadits" /></p>
+  <p align="center"><img src="https://juliadit-stats.vercel.app/api/wakatime?username=JuliaditS&theme=algolia" alt="juliadits" /></p>
 </a>
 </p>
 
